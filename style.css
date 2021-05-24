@@ -1,0 +1,50 @@
+body {
+    background:rgb(152, 7, 7);
+}
+
+.wrapper {
+    width:951px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.menu-in-header ul li {
+    float: left;
+
+}
+
+.menu-in-header ul li img {
+margin: 0 40px;
+}
+
+.menu-in-header ul li p {
+    color: white;
+    text-align: center;
+    padding: 6px 
+}
+
+.menu-in-header {
+    padding-top: 20px;
+    background: black;
+}
+
+.left-aside{
+    width: 200px;
+    height: 290px;
+    background-color: rgb(111, 8, 8);
+}
+
+
+
+.left-aside ul li a {
+    color:orangered;
+}
+
+.left aside ul li {
+    margin-bottom: 23px;
+}
